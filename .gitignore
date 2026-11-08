@@ -1,0 +1,11 @@
+# Your personal financial data. Never commit this.
+data/
+*.tmp
+*.bak
+
+# Dependencies (none today, but npm installs would go here)
+node_modules/
+
+# Operating system files
+.DS_Store
+Thumbs.db
